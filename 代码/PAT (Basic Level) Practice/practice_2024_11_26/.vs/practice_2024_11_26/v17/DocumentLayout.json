@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\practice_2024_11_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D1B40F-5446-4BFC-9AE5-10E57841B235}|practice_2024_11_26.vcxproj|D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\practice_2024_11_26\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D1B40F-5446-4BFC-9AE5-10E57841B235}|practice_2024_11_26.vcxproj|solutionrelative:practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.c",
+              "DocumentMoniker": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\practice_2024_11_26\\practice.c",
+              "RelativeDocumentMoniker": "practice.c",
+              "ToolTip": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\practice_2024_11_26\\practice.c",
+              "RelativeToolTip": "practice.c",
+              "ViewState": "AQIAAE8AAAAAAAAAAIA4wHkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T11:28:15.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
