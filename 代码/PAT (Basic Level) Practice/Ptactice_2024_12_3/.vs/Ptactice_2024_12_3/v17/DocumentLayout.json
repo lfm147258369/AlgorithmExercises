@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D184B4DE-5530-4C29-8E45-B3A1ECC6F7A0}|Ptactice_2024_12_3.vcxproj|D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D184B4DE-5530-4C29-8E45-B3A1ECC6F7A0}|Ptactice_2024_12_3.vcxproj|solutionrelative:practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D184B4DE-5530-4C29-8E45-B3A1ECC6F7A0}|Ptactice_2024_12_3.vcxproj|D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\1003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D184B4DE-5530-4C29-8E45-B3A1ECC6F7A0}|Ptactice_2024_12_3.vcxproj|solutionrelative:1003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.c",
+              "DocumentMoniker": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\practice.c",
+              "RelativeDocumentMoniker": "practice.c",
+              "ToolTip": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\practice.c",
+              "RelativeToolTip": "practice.c",
+              "ViewState": "AQIAAIYAAAAAAAAAAAA4wKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-03T10:47:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1003.cpp",
+              "DocumentMoniker": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\1003.cpp",
+              "RelativeDocumentMoniker": "1003.cpp",
+              "ToolTip": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\PAT (Basic Level) Practice\\Ptactice_2024_12_3\\1003.cpp",
+              "RelativeToolTip": "1003.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T02:34:17.435Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

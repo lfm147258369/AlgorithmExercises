@@ -1,0 +1,4 @@
+﻿  practice.c
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\practice_2024_11_30\practice.c(157,21): error C2065: “L”: 未声明的标识符
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\practice_2024_11_30\practice.c(157,21): warning C4047: “函数”:“List”与“int”的间接级别不同
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\practice_2024_11_30\practice.c(157,21): warning C4024: “FindKth”: 形参和实参 1 的类型不同

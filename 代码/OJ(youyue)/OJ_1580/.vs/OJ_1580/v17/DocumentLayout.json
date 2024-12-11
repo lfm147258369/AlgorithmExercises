@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\OJ(youyue)\\OJ_1580\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF7981C-4EC1-4E76-9435-70B06E80E98B}|OJ_1580.vcxproj|D:\\code\\algorithm-exercises\\\u4EE3\u7801\\OJ(youyue)\\OJ_1580\\apple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBF7981C-4EC1-4E76-9435-70B06E80E98B}|OJ_1580.vcxproj|solutionrelative:apple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apple.cpp",
+              "DocumentMoniker": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\OJ(youyue)\\OJ_1580\\apple.cpp",
+              "RelativeDocumentMoniker": "apple.cpp",
+              "ToolTip": "D:\\code\\algorithm-exercises\\\u4EE3\u7801\\OJ(youyue)\\OJ_1580\\apple.cpp",
+              "RelativeToolTip": "apple.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T10:24:43.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

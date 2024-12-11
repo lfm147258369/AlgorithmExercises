@@ -1,0 +1,12 @@
+﻿  practice.c
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(18,2): error C2061: 语法错误: 标识符“List”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(19,1): error C2059: 语法错误:“}”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(23,6): error C2061: 语法错误: 标识符“Read”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(23,6): error C2059: 语法错误:“;”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(23,11): error C2059: 语法错误:“<parameter-list>”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,6): error C2061: 语法错误: 标识符“Add”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,6): error C2059: 语法错误:“;”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,15): error C2146: 语法错误: 缺少“)”(在标识符“L1”的前面)
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,15): error C2061: 语法错误: 标识符“L1”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,17): error C2059: 语法错误:“,”
+D:\code\algorithm-exercises\代码\PAT (Basic Level) Practice\2024_practice_12_1\practice.c(45,26): error C2059: 语法错误:“)”
