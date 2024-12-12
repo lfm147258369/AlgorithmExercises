@@ -1,5 +1,0 @@
-﻿  apple.cpp
-D:\code\algorithm-exercises\代码\OJ(youyue)\OJ_1580\apple.cpp(168,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
-D:\code\algorithm-exercises\代码\OJ(youyue)\OJ_1580\apple.cpp(191,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
-D:\code\algorithm-exercises\代码\OJ(youyue)\OJ_1580\apple.cpp(200,20): warning C4018: “<”: 有符号/无符号不匹配
-  OJ_1580.vcxproj -> D:\code\algorithm-exercises\代码\OJ(youyue)\OJ_1580\Debug\OJ_1580.exe
